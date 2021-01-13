@@ -20,6 +20,10 @@ collaborative_notes: "https://pad.carpentries.org/2021-02-illinois"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+<p>
+This is the curriculum page for the <a href="https://researchpark.illinois.edu/ilreboot/">Illinois Reboot</a> program operated by the University of Illinois Research Park.  Please consult that page for schedule, enrollment, and other details.
+</p>
+
 {% comment %}
 Check SWC curriculum
 {% endcomment %}
